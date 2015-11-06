@@ -1,0 +1,33 @@
+site:gov. +inurl:php?pageid=
+site:gov. +inurl:php?id=
+site:gov. result +inurl:php?id=
+site:gov. +inurl:php?item=
+site:gov. +inurl:php?order=
+site:gov. +inurl:php?list=
+site:gov. +inurl:php?home=
+site:gov. home +inurl:php?*=
+site:gov. home +inurl:pag?*=
+site:gov. home +inurl:page?*=
+site:.gov.br +sql +error inurl:”id=”
+index.php?option=com_mambads
+inurl:index.php?option=com_expose
+intitle:guestbook  “advanced guestbook 2.2 powered”
+filetype:asp inurl:”shopdisplayproducts.asp
+“Powered by: vBulletin * 3.0.1”  inurl:newreply.php
+“Powered by Invision Power Board(U) v1.3 Final”
+inurl:gotoURL.asp?url=
+inurl:comersus_message.asp
+ext:pl inurl:cgi intitle:”FormMail *”  -“*Referrer” -“* Denied” -sourceforge -error -cvs -input
+inurl:”dispatch.php?atknodetype” |  inurl:class.at
+“Powered by Gallery v1.4.4”
+inurl:/cgi-bin/index.cgi inurl:topics inurl:viewca
+inurl:”/becommunity/community/index.php?pageurl=”
+“Powered *: newtelligence” (“dasBlog 1.6″| “dasBlog 1.5″| “dasBlog 1.4″|”dasBlog 1.3”)
+filetype:cgi inurl:tseekdir.cgi
+filetype:php inurl:index.php inurl:”module=subjects” inurl:”func=*” (listpages| viewpage | listcat)
+intitle:”WordPress > * > Login form” inurl:”wp-login.php”
+intitle: Index of finance.xls
+intitle:index.of passwd passwd.bak
+allinurl:loc_id “mod.php?mod=calendar”
+allinurl:”mod php mod publisher”artid
+allinurl:”mod.php?mod=gallery” id
